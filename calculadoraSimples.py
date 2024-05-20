@@ -1,4 +1,4 @@
-print("CALCULADORA PYTHON")
+print("CALCULADORA SIMPLES PYTHON")
 
 print("1 - Soma")
 print("2 - Subtração")
